@@ -1,0 +1,23 @@
+body {
+	background-color: lightyellow;
+	color: darkslateblue;
+}
+
+h1 {
+	color: blueviolet;
+	font-family: Helvetica;
+	font-weight: 100;
+	letter-spacing: 10px;
+	font-size: 60px;
+}
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+.card-white {
+	background-color: whitesmoke;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0,1);
+}
